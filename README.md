@@ -1,0 +1,5 @@
+1-bit half-adder to add 2 binary bits, result in a 1-bit sum and 1-bit-carry-out (Cout) with only NAND gates — include k-map, truth table, simplest sum of products, drawing of circuit;
+1-bit full-adder to add 2 binary bits and a 1-bit carry-in (Cin) and results in a 1-bit sum and 1-bit carry-out (Cout) with only NAND gates — include k-map, truth table, simplest sum of products, drawing of circuit;
+4-bit adder to add 2 4 bit binary numbers and a 1-bit carry-in (Cin), and results in a 4-bit sum and 1-bit carry-out (Cout) with the 1-bit full-adder component built in previous step— include drawing of circuit, check timing diagram using base cases;
+8-bit adder to add 2 8-bit binary numbers and a 1-bit carry-in (Cin), and results in a 4-bit sum and 1-bit carry-out (Cout) with the 1-bit full-adder component built in previous step — include drawing of circuit;
+16-bit adder to add 2 16-bit binary numbers and a 1-bit carry-in (Cin), and results in a 16-bit sum and 1-bit carry-out (Cout) with component build in previous step — include drawing of circuit;
